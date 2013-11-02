@@ -1,5 +1,5 @@
 class TrucTrac
-    def self.zdravo_svete
-        "Zdravo Svete"
+    def self.truc_trac
+        "Трућ траћ"
     end
 end
