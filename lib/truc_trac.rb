@@ -1,5 +1,5 @@
 # Main class
-class TrucTrac
+module TrucTrac
     # Say Трућ траћ to the world
     #
     # Example:
@@ -10,3 +10,5 @@ class TrucTrac
         "Трућ траћ"
     end
 end
+
+require 'truc_trac/faraday'
