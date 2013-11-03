@@ -9,6 +9,6 @@ Gem::Specification.new do |spec|
     spec.files          = ['lib/truc_trac.rb']
     spec.executables    << 'truc_trac'
     spec.add_development_dependency 'rspec'
-    spec.homepage       = 'http://github.com/truc_trac'
+    spec.homepage       = 'http://github.com/biske/truc_trac'
     spec.license        = 'MIT'
 end
