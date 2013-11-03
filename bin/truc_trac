@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'truc_trac'
+puts TrucTrac.truc_trac
