@@ -1,6 +1,7 @@
 # Трућ траћ
 
 [![Gem Version](https://badge.fury.io/rb/truc_trac.png)](http://badge.fury.io/rb/truc_trac)
+[![Build Status](https://travis-ci.org/biske/truc_trac.png?branch=master)](https://travis-ci.org/biske/truc_trac)
 
 Трућ траћ џем за вежбање Рубија
 
