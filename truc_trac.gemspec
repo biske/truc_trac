@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
     spec.name           = 'truc_trac'
-    spec.version        = '0.0.7'
-    spec.date           = '2013-11-04'
+    spec.version        = '0.0.8'
+    spec.date           = '2013-11-05'
     spec.summary        = 'Truc Trac'
     spec.description    = 'Truc Trac gem za ucenje pravljenja gemova'
     spec.authors        = ['Иван Бишевац']
