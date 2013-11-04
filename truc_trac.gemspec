@@ -8,10 +8,10 @@ Gem::Specification.new do |spec|
     spec.email          = 'ivan.bisevac@gmail.com'
     spec.files          = ['lib/truc_trac.rb']
     spec.executables    << 'truc_trac'
+    spec.add_runtime_dependency 'rake'
     spec.add_runtime_dependency 'faraday'
     spec.add_runtime_dependency 'faraday_middleware'
     spec.add_development_dependency 'rspec'
-    spec.add_development_dependency 'rake'
     spec.homepage       = 'http://github.com/biske/truc_trac'
     spec.license        = 'MIT'
 end
