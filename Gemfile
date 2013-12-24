@@ -4,4 +4,4 @@ gemspec
 
 gem 'rake'
 
-gem 'coverrals', require: false
+gem 'coveralls', require: false
