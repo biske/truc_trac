@@ -11,3 +11,5 @@ doc/*
 log/*
 pkg/*
 .idea/*
+*.sublime-project
+*.sublime-workspace
