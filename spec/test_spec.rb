@@ -1,5 +1,5 @@
 require 'coveralls'
-Coverrals.wear!
+Coveralls.wear!
 
 require 'rspec'
 require 'truc_trac'
