@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/truc_trac.png)](http://badge.fury.io/rb/truc_trac)
 [![Build Status](https://travis-ci.org/biske/truc_trac.png?branch=master)](https://travis-ci.org/biske/truc_trac)
+[![Coverage Status](https://coveralls.io/repos/biske/truc_trac/badge.png?branch=master)](https://coveralls.io/r/biske/truc_trac?branch=master)
 
 Трућ траћ џем за вежбање Рубија
 
