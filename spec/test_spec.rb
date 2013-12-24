@@ -1,4 +1,4 @@
-require 'coverrals'
+require 'coveralls'
 Coverrals.wear!
 
 require 'rspec'
